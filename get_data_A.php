@@ -3,7 +3,7 @@
 <!-- Style of the table, CSS type -->
 <head>
    <!-- Link your php/css file -->
-   <link rel="stylesheet" href="style.php" media="screen">
+   <link rel="stylesheet" href="style.css" media="screen">
 
 </head>
 </html>
